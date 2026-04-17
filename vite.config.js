@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/achievly/', // ← your repo name here
+  base: '/achively/', // ← your repo name here
 })
